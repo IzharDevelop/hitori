@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
+global.owner = ['6282113821188','6281356484612','6285773557984','6385852536578']
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'izhardev'
+global.botname = 'Amel Bot'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
@@ -26,8 +26,8 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
+	yt: 'https://youtube.com/c/izhar_nation',
+	gh: 'https://github.com/IzharDevelop',
 	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
 	ch: '120363250409960161@newsletter',
 }
@@ -45,15 +45,15 @@ global.uang = {
 }
 
 global.mess = {
-	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
-	group: 'Gunakan Di Group!',
-	private: 'Gunakan Di Privat Chat!',
-	prem: 'Khusus User Premium!',
-	wait: 'Loading...',
+	owner: 'Fitur niki khusus mas izhar sayang!',
+	admin: 'Fitur niki khusus kulo dados admin!',
+	botAdmin: 'Kulo sanes admin sayang!',
+	group: 'sampean damel ten grub!',
+	private: 'sampean damel ten chat prib!',
+	prem: 'niki damel orang tersayang!',
+	wait: 'Sabar geh sayang...',
 	error: 'Error!',
-	done: 'Done'
+	done: 'sampun'
 }
 
 global.APIs = {
